@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "456ba163958eff73a41ed03c95ec6601",
+    "revision": "2e2461d6839fd655589aa4d50706b1d6",
     "url": "/index.html"
   },
   {
-    "revision": "968e1fe7b9d38007855b",
+    "revision": "43f623e5e2d494f8bf7a",
     "url": "/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "cf9add28f78870fa0395",
-    "url": "/static/css/main.ba718abb.chunk.css"
+    "revision": "0ffadcda6561b22a0ce8",
+    "url": "/static/css/main.0dcb7774.chunk.css"
   },
   {
-    "revision": "968e1fe7b9d38007855b",
-    "url": "/static/js/2.0e262d58.chunk.js"
+    "revision": "43f623e5e2d494f8bf7a",
+    "url": "/static/js/2.a3600383.chunk.js"
   },
   {
-    "revision": "cf9add28f78870fa0395",
-    "url": "/static/js/main.c72e6417.chunk.js"
+    "revision": "0ffadcda6561b22a0ce8",
+    "url": "/static/js/main.04eeec2f.chunk.js"
   },
   {
     "revision": "1f1c42027a2176df9c51",
@@ -56,6 +56,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/about_us_bgrd.c01dd62e.jpg"
   },
   {
+    "revision": "7127960152bb47bc605f9d206b821a18",
+    "url": "/static/media/archieve_bgr.71279601.jpg"
+  },
+  {
+    "revision": "b42a53853cdfe52261435832cad0e35d",
+    "url": "/static/media/associate.b42a5385.jpg"
+  },
+  {
+    "revision": "992abb35bf503295aea3ce9a2ae84ccc",
+    "url": "/static/media/banner.992abb35.jpg"
+  },
+  {
     "revision": "48f20adb948df72045570f247e6bb292",
     "url": "/static/media/bg.48f20adb.jpg"
   },
@@ -78,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bbd3681e2dd1ee938a8844073f48326",
     "url": "/static/media/cnt.3bbd3681.jpg"
+  },
+  {
+    "revision": "564a1adecbdc1fe7945038239f84dafb",
+    "url": "/static/media/cultural.564a1ade.jpg"
   },
   {
     "revision": "9c6e2e2ed3925ff845600815d85f822e",
@@ -104,8 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/develop_road_bgr.e4942d36.jpg"
   },
   {
+    "revision": "249e27c2528ff22875efad9c3257157b",
+    "url": "/static/media/enviroment.249e27c2.jpg"
+  },
+  {
     "revision": "a8f3090f7d92aeed267e79eed691b8e3",
     "url": "/static/media/g-g-logo.a8f3090f.png"
+  },
+  {
+    "revision": "693ad38dd3bbf7e0e27aaf2462bcb5d4",
+    "url": "/static/media/hexagonal.693ad38d.png"
   },
   {
     "revision": "4f810b89c828e3d5bf0afc87687c1ff5",
@@ -176,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo-1.347767c2.png"
   },
   {
+    "revision": "56bb99aa60284ebe34982f1867cbb666",
+    "url": "/static/media/manger_bgr.56bb99aa.jpg"
+  },
+  {
     "revision": "cc3393f9e81a585f2a0ed2d147d4aaea",
     "url": "/static/media/new-fake-1.cc3393f9.jpg"
   },
@@ -192,8 +220,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/news-background.3b884c27.jpg"
   },
   {
+    "revision": "60ef044af6dadb25c67b4d3037a9c27a",
+    "url": "/static/media/oppo.60ef044a.jpg"
+  },
+  {
     "revision": "3798fba8e2d4c563046ccd18d36a8b0f",
     "url": "/static/media/persent-background.3798fba8.jpg"
+  },
+  {
+    "revision": "e8a9b0e66d242b203a75dcff4a439a01",
+    "url": "/static/media/policy.e8a9b0e6.jpg"
   },
   {
     "revision": "c2a5b76cd122dd2976788093a366aa90",
@@ -220,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profile.b862ee27.jpg"
   },
   {
-    "revision": "185b546af20e428c96d0a91270e4f15e",
-    "url": "/static/media/real_val_bgr.185b546a.jpg"
+    "revision": "8faa180d69fd6ef9bdea71ec6c4c81d4",
+    "url": "/static/media/real_val_bgr.8faa180d.jpg"
   },
   {
     "revision": "544e4f4f33dc2e6a98de6dc31581013f",
@@ -250,6 +286,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "68fa8102edc5aaf71c3b7a7807f9e4b2",
     "url": "/static/media/steel-building-4.68fa8102.jpg"
+  },
+  {
+    "revision": "6177edba225bf506355eb9f5ab8bd145",
+    "url": "/static/media/strain.6177edba.jpg"
   },
   {
     "revision": "14c78ca64e48fc9cb32f51c6e21058e1",
